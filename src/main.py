@@ -1,3 +1,4 @@
+# Entry point of the Git practice project
 from datetime import date
 from utils import add, subtract, multiply, divide
 
