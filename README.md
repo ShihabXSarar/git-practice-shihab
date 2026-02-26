@@ -9,3 +9,4 @@ commits, branches, merges, and remote repositories.
 - Prints user name and date
 - Simple calculator (add, subtract)
 - Modular Python structure
+- Added Multiply and divide function
